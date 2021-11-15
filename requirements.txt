@@ -2,5 +2,5 @@ Flask
 uwsgi
 gunicorn
 Flask-RESTful
-Flask-jwt
+Flask-JWT
 Flask-SQLAlchemy
