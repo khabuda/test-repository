@@ -4,5 +4,4 @@ gunicorn
 Flask-RESTful
 Flask-JWT
 Flask-SQLAlchemy
-psycopg2
 pymysql
